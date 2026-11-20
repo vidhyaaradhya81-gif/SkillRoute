@@ -1,0 +1,6 @@
+{
+  "name": "SkillRoute",
+  "description": "Smart career guidance system for Computer Science students and professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
